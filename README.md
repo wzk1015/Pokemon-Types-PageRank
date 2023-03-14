@@ -126,7 +126,7 @@ All the values in the Type Chart are converted from [2, 1, 0.5, 0] to [0.5, 1, 2
 
 ## References
 
-[Type Tier List by Luke4ever](https://www.bilibili.com/video/BV1jg411X7Jf)
+[Type Tier List by Luke4ever (for Nuzlocke and PVE)](https://www.bilibili.com/video/BV1jg411X7Jf)
 
 <img src="luke.jpg" alt="pic" style="zoom: 67%;" />
 
