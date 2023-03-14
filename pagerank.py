@@ -66,6 +66,7 @@ def show_graph(graph):
     # 绘制节点的label
     nx.draw_networkx_labels(graph, positions, font_size=7)
     # 输出希拉里邮件中的所有人物关系图
+    plt.tight_layout()
     plt.show()
 
 
