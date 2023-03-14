@@ -2,7 +2,7 @@
 
 Use PageRank to rank the Pokemon types according to the [Type Chart](https://bulbapedia.bulbagarden.net/wiki/Type#Type_chart).
 
-<img src="fig.png" alt="pic" style="zoom: 67%;" />
+<img src="figure.png" alt="pic" style="zoom: 67%;" />
 
 
 
